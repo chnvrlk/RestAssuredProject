@@ -27,7 +27,7 @@ Proje içerisindeki diğer adımları da şu şekilde sıralayabiliriz;
 4- Response'daki değerin json path ile alınıp hashmap'e eklenmesi
 5- Hashmapteki değeri response body'e eklemek
  
-
+-------------------------------------------
 hi,
 The project is a web service test automation project
 
